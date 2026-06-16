@@ -85,9 +85,9 @@ Deployed Application (optional): [Flixster Deployed Site](https://flixster-monik
 
 #### STRETCH FEATURES
 
-- [ ] **Deployment**
-  - [ ] Website is deployed via Render.
-  - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS**: For ease of grading, please use the deployed version of your website when creating your walkthrough. 
+- [X] **Deployment**
+  - [X] Website is deployed via Render.
+  - [X] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS**: For ease of grading, please use the deployed version of your website when creating your walkthrough. 
 - [x] **Embedded Movie Trailers**
   - [x] Within the pop-up modal displaying a movie's details, the movie trailer is viewable.
     - [x] When the trailer is clicked, users can play the movie trailer.
@@ -129,15 +129,15 @@ Deployed Application (optional): [Flixster Deployed Site](https://flixster-monik
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Ans: Yes, Learning about react components
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+ANs: If I had more time, I would love to work on how UI looks.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Ans: The demo went well.
 
 ### Open-source libraries used
 
@@ -146,3 +146,5 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+Ans: Thankyou very much my instructers for your support. I really appreciate it.
